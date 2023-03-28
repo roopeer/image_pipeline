@@ -9,7 +9,7 @@ colour-science
 pandas
 openpyxl
 argparse
-PIL
+Pillow
 torch
 scikit-learn
 colour_demosaicing
