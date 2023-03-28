@@ -1,6 +1,6 @@
 # image_pipeline
 
-Copy this repo's file structure (including utils folder), then run main.py:
+Copy this repo's file structure (including the utils folder), then run main.py:
     
     python3 main.py <path/to/input/dir> <path/to/output/dir>
     
