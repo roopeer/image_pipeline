@@ -13,4 +13,3 @@ Pillow
 torch
 scikit-learn
 colour_demosaicing
-warnings
