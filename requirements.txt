@@ -9,7 +9,6 @@ colour-science
 pandas
 openpyxl
 argparse
-os
 PIL
 torch
 scikit-learn
